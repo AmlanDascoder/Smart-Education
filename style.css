@@ -1,0 +1,34 @@
+  .image {
+    /* margin: 1px 100px 1px 1px; */
+     margin-right: 80px; 
+     padding-left: 6em; 
+     padding-right: 6em;
+    height:-70px;
+    
+       
+      bottom:0px;   
+
+
+
+        }
+.item {
+  background-color: yellowgreen;
+}
+h2 {
+  background-color: aqua;
+}
+.header{
+  background-color: deeppink;
+}
+.image{
+  background-color: darkgoldenrod;
+}
+.smart{
+  background-color: antiquewhite;
+}
+.future{
+  background-color: chartreuse;
+}
+.class{
+  background-color: burlywood;
+}
